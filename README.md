@@ -1,6 +1,6 @@
 # Face_experssion
 
-In this project we can detect six types of facial expressions (anger, disgust, fear, happy, sad, surprise, neutral) using neural networks. The neural network model consists of 6 layers. 
+In this project we can detect six types of facial expressions (anger, disgust, fear, happy, sad, surprise, neutral) using neural networks in Python. The neural network model consists of 6 layers. 
 
 ---
 
